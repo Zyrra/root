@@ -1,0 +1,20 @@
+.my-article{
+    background-color: olive;
+    width: 90%;
+    box-sizing: border-box;
+    margin: 3px auto;
+}
+.my-button{
+    display: block;
+    background-color: plum;
+    margin: 20px auto;
+}
+
+.my-container{
+    box-sizing: border-box;
+    border: 2px solid green;
+}
+
+.test{
+    background-color: midnightblue;
+}

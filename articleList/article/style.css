@@ -1,0 +1,11 @@
+.my-card{
+    background-color: silver ;
+    box-sizing: border-box;
+    margin: 5px;
+    }
+    
+.my-button{
+    display: block;
+    background-color: plum;
+    margin: 20px auto;
+}

@@ -1,0 +1,13 @@
+.header {
+	width: auto;
+	height: 250px;
+	background-color: aquamarine;
+	border-radius: 10px;
+}
+
+.f1{
+	background-color: beige;
+	border: 1px solid red;
+	margin: 20px;
+	box-sizing: content-box;
+} 

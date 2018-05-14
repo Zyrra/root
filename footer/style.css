@@ -1,0 +1,36 @@
+.footer {
+	width: auto;
+	background-color: aquamarine;
+	border-radius: 10px;
+	margin-top: 15px;
+	background-image: url(img/img1.jpg);
+	background-size: contain;
+
+}
+
+form {
+	background-color: cadetblue;
+	opacity: 0.8;
+	margin-top: 25px;
+}
+
+form div {
+	background-color: crimson;
+	width: 100px;
+	height: 25px;
+}
+
+
+textarea{
+	background-color: bisque;
+}
+
+.div-color {
+	background-color: green;
+}
+
+.ajaxDiv{
+	width: 200px;
+	height: 200px;
+	background-color: darkgrey;
+}

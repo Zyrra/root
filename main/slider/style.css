@@ -1,0 +1,51 @@
+.container,
+.button-cont
+{
+	width: 300px;
+	height: 300px;
+	margin: auto;
+	margin-top: 100px;
+	background-color: yellowgreen;
+	opacity: 0.7;
+	overflow: hidden;
+}
+
+.wrapper{
+	width: 9000px;
+	transition: all;
+	transition-duration: 1s;
+}
+
+.img{
+	float: left;
+	box-sizing: border-box;
+	width: 280px;
+	height: 280px;
+	margin: 10px;
+	background-color: teal;
+	opacity: 0.9;
+	background-size: cover;
+}
+
+
+.button-cont{
+	height: 50px;
+	margin-top: 25px;
+}
+
+.button-left,
+.button-right{
+	box-sizing: border-box;
+	width:40%;
+	height: 30px;
+	margin: 10px 5%;
+	background-color: violet;
+	float: left;
+	border-radius: 5px;
+	text-align: center; 
+}
+
+.button-left:active,
+.button-right:active{
+	background-color: white;
+}
